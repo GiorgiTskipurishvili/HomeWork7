@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\bin\Debug\net5.0\Homework7.exe
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\bin\Debug\net5.0\Homework7.deps.json
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\bin\Debug\net5.0\Homework7.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\bin\Debug\net5.0\Homework7.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\bin\Debug\net5.0\Homework7.dll
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\bin\Debug\net5.0\Homework7.pdb
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\obj\Debug\net5.0\Homework7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\obj\Debug\net5.0\Homework7.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\obj\Debug\net5.0\Homework7.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\obj\Debug\net5.0\Homework7.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\obj\Debug\net5.0\Homework7.sourcelink.json
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\obj\Debug\net5.0\Homework7.dll
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\obj\Debug\net5.0\refint\Homework7.dll
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\obj\Debug\net5.0\Homework7.pdb
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\obj\Debug\net5.0\Homework7.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\HomeWork7\Homework7\Homework7\obj\Debug\net5.0\ref\Homework7.dll
